@@ -2,8 +2,8 @@
 This will be an analysis project for Airbnb Seattle datasets.  
 
 # Table of contents
-- [Installation](#Installation)
-- [Project Motivation](#Project Motivation)
+- [Installations](#Installations)
+- [Project Motivation](#ProjectMotivation)
 # Installations
 To run the Jupyter Notebook with the provided code, you'll need to install the following libraries:
 -	Python: Ensure you have Python installed on your system. You can download and install it from the official Python website. The Python version used in this project is 3.11.7
