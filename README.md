@@ -1,4 +1,4 @@
-# AirbnbSeattleProject
+# Airbnb Seattle Project
 This will be an analysis project for Airbnb Seattle datasets.  
 # Installations
 To run the Jupyter Notebook with the provided code, you'll need to install the following libraries:
