@@ -3,10 +3,11 @@ This will be an analysis project for Airbnb Seattle datasets.
 
 # Table of contents
 <!-- TOC -->
-<!-- /TOC -->
-
 # Installationz
 # Project Motivation
+<!-- /TOC -->
+
+
 
 
 # Installations
