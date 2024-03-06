@@ -32,6 +32,12 @@ This project follows the CRISP-DM framework as outlined in the Udacity tutorials
 The primary objectives of this project are to delve into the provided datasets and derive insights to address the following key questions: 
 1.	Busiest Times for Airbnb Bookings in Seattle: The aim is to identify the peak periods of activity for Airbnb bookings in Seattle
 2.	Factors Influencing Pricing of Airbnb Listings: The endeavor to uncover the significant factors that contribute to the pricing of Airbnb listings in Seattle. 
-3.	Predicting Positive Review Likelihood: The goal is to build a predictive model to determine the likelihood of receiving a positive review. 
+3.	Predicting Positive Review Likelihood: The goal is to build a predictive model to determine the likelihood of receiving a positive review.
+
+# File Descriptions
+-	Listings_seattle.csv: This file contains the dataset with information about Airbnb listings in Seattle. 
+-	Calendar_seattle.csv: This file contains the dataset with information about the availability and pricing of Airbnb listings in Seattle over time. 
+-	AirBnbSeattle_Project.ipynb: This Jupyter Notebook contains the project code and analysis, including data exploration, visualization, and modeling. 
+-	README.md: This file provides an overview of the project, including its motivation, goals, and instructions for running the code.
 
 
