@@ -2,8 +2,12 @@
 This will be an analysis project for Airbnb Seattle datasets.  
 
 # Table of contents
-<a name="Installations"></a>
-# Installations
+<!-- TOC -->
+<!-- /TOC -->
+
+# Installationz
+# Project Motivation
+
 
 # Installations
 To run the Jupyter Notebook with the provided code, you'll need to install the following libraries:
