@@ -40,7 +40,7 @@ The primary objectives of this project are to delve into the provided datasets a
 -	AirBnbSeattle_Project.ipynb: This Jupyter Notebook contains the project code and analysis, including data exploration, visualization, and modeling. 
 -	README.md: This file provides an overview of the project, including its motivation, goals, and instructions for running the code.
 
-# How to Interact with your project
+# How to Interact with the project
 1.	Cloning the Repository: Start by cloning or downloading the repository to your local machine. You can do this by clicking on the "Clone or download" button and selecting your preferred method.
 2.	Installing Dependencies: Before running the project code, ensure that you have all the necessary dependencies installed. (Explained on Installation Section)
 3.	Accessing the Datasets: The datasets required for the project are in the same repository. You can access the 'listings.csv' and 'calendar.csv' files for analysis.
