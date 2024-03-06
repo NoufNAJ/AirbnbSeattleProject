@@ -35,8 +35,8 @@ The primary objectives of this project are to delve into the provided datasets a
 4.	Predicting Positive Review Likelihood: The goal is to build a predictive model to determine the likelihood of receiving a positive review.
 
 # File Descriptions
--	Listings_seattle.csv: This file contains the dataset with information about Airbnb listings in Seattle. 
--	Calendar_seattle.csv: This file contains the dataset with information about the availability and pricing of Airbnb listings in Seattle over time. 
+-	Listings_seattle.rar: This file is compressed and contains the dataset Listings_seattle.csv with information about Airbnb listings in Seattle. 
+-	Calendar_seattle.rar: This file is compressed and contains the dataset Calendar_seattle.csv with information about the availability and pricing of Airbnb listings in Seattle over time. 
 -	AirBnbSeattle_Project.ipynb: This Jupyter Notebook contains the project code and analysis, including data exploration, visualization, and modeling. 
 -	README.md: This file provides an overview of the project, including its motivation, goals, and instructions for running the code.
 
