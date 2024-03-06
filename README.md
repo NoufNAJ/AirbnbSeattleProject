@@ -48,4 +48,4 @@ The primary objectives of this project are to delve into the provided datasets a
 5.	Exploring the Analysis and results: The Jupyter Notebook contains sections organized based on the three questions and answered by charts and analysis.  
 
 # Licensing, Authors, Acknowledgements.
-Must give credit to kaggle for the data. You can find the Licensing for the data and other descriptive information at Kaggle link Seattle Airbnb Data . Otherwise, feel free to use the code here.
+Must give credit to kaggle for the data. You can find the Licensing for the data and other descriptive information at Kaggle link [Dataset](https://www.kaggle.com/datasets/airbnb/seattle/data) Seattle Airbnb Data . Otherwise, feel free to use the code here.
