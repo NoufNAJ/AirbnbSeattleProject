@@ -40,4 +40,12 @@ The primary objectives of this project are to delve into the provided datasets a
 -	AirBnbSeattle_Project.ipynb: This Jupyter Notebook contains the project code and analysis, including data exploration, visualization, and modeling. 
 -	README.md: This file provides an overview of the project, including its motivation, goals, and instructions for running the code.
 
+# How to Interact with your project
+1.	Cloning the Repository: Start by cloning or downloading the repository to your local machine. You can do this by clicking on the "Clone or download" button and selecting your preferred method.
+2.	Installing Dependencies: Before running the project code, ensure that you have all the necessary dependencies installed. (Explained on Installation Section)
+3.	Accessing the Datasets: The datasets required for the project are in the same repository. You can access the 'listings.csv' and 'calendar.csv' files for analysis.
+4.	Running the Jupyter Notebook: Open the 'AirBnbSeattle_Project.ipynb' Jupyter Notebook to interact with the project code. You can run each cell in the notebook to execute the code and observe the results.
+5.	Exploring the Analysis and results: The Jupyter Notebook contains sections organized based on the three questions and answered by charts and analysis.  
 
+# Licensing, Authors, Acknowledgements.
+Must give credit to kaggle for the data. You can find the Licensing for the data and other descriptive information at Kaggle link Seattle Airbnb Data . Otherwise, feel free to use the code here.
