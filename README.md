@@ -29,3 +29,9 @@ This project follows the CRISP-DM framework as outlined in the Udacity tutorials
 5.	Evaluation 
 6.	Deployment
 
+The primary objectives of this project are to delve into the provided datasets and derive insights to address the following key questions: 
+1.	Busiest Times for Airbnb Bookings in Seattle: The aim is to identify the peak periods of activity for Airbnb bookings in Seattle
+2.	Factors Influencing Pricing of Airbnb Listings: The endeavor to uncover the significant factors that contribute to the pricing of Airbnb listings in Seattle. 
+3.	Predicting Positive Review Likelihood: The goal is to build a predictive model to determine the likelihood of receiving a positive review. 
+
+
