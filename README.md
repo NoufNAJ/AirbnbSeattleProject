@@ -50,3 +50,6 @@ The primary objectives of this project are to delve into the provided datasets a
 
 # Licensing, Authors, Acknowledgements.
 Must give credit to kaggle for the data. You can find the Licensing for the data and other descriptive information at Kaggle link [Seattle Airbnb Data](https://www.kaggle.com/datasets/airbnb/seattle/data). Otherwise, feel free to use the code here.
+
+# Blog Post Link:
+https://medium.com/@nouf.alduhailan/unlocking-the-secrets-of-seattle-airbnb-an-analytical-journey-d8f9b8d71676
